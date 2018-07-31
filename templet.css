@@ -1,0 +1,40 @@
+html{
+	min-height: 100%;
+	overflow: auto;
+}
+h1{
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+	background-color:rgb(0,0,0);
+	color:rgb(176,174,167);
+	border-radius: 30px
+
+}
+body{
+	background: linear-gradient(rgb(168,230,217), rgb(245,245,245));
+}
+	}
+.top_nav_item:hover {
+	margin:10px; 
+	color:rgb(242,183,19);
+	text-decoration:none;
+}
+.top_nav_item{
+	margin:10px;
+	color:rgb(102,101,167);
+	text-decoration:none;
+}
+img{
+	border: dotted;
+	float: left;
+	box-shadow: 6px 6px 1px gray;
+	width: 200px;
+	margin-right: 20px;
+}
+#page_content{
+	width: 85%;
+	margin: auto;
+}
+#current_page{
+	border-bottom: 3px rgb(242,183,19);
+}

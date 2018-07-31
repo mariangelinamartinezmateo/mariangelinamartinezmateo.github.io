@@ -1,0 +1,73 @@
+
+h1{
+	text-align: center;
+	font-family: 'Quattrocento Sans', sans-serif;
+	background-color:white;
+	width: 85%;
+	border-radius: 30px;
+	margin: 40px auto;
+	
+
+
+}
+body{
+	background:rgb(19,14,97);
+	padding: 0;
+	margin: 0; 
+}
+	
+.top_nav_item:hover {
+	margin:10px; 
+	color:rgb(249,207,0);
+	text-decoration:none;
+	font-family: 'Quattrocento Sans', sans-serif; 
+	/*float: right;*/
+}
+.top_nav_item{
+	margin:10px;
+	color:rgb(241,159,77);
+	text-decoration:none;
+	font-family: 'Quattrocento Sans', sans-serif;
+	/*float: right;*/
+}
+#smile{border: dotted;
+	width: 200px;
+	margin-right: 20px;
+	float: left
+}
+#description{
+	width: 85%;
+	margin: auto;
+	background-color:white;
+	min-height: 350px;
+	
+
+}
+#current_page{
+	border-bottom: 3px rgb(242,183,19);
+}
+#resume {
+	justify-content:center;
+}
+#page_content{
+	margin: auto;
+}
+table{
+	border-collapse: collapse;
+	width: 80%;
+	color: white;
+}
+table,td{
+	border: solid 2px white;
+}
+#col1{
+	width:40%;
+}
+#col2, #col3{
+	width: 30%
+}td:first-child{
+	text-align: left;
+}
+#logo{
+	max-height: 100px
+}

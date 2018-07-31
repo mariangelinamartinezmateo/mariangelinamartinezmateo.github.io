@@ -1,0 +1,40 @@
+html{
+	min-height: 100%;
+	overflow: auto;
+}
+h1{
+	text-align: center;
+	font-family: 'Quattrocento Sans', sans-serif;
+	background-color:rgb(249,207,0)
+	color:rgb(241,159,77); 
+	border-radius: 30px
+
+}
+body{
+	background:rgb(78,110,242);
+}
+	
+.top_nav_item:hover {
+	margin:10px; 
+	color:rgb(249,207,0);
+	text-decoration:none;
+	font-family: 'Quattrocento Sans', sans-serif; 
+}
+.top_nav_item{
+	margin:10px;
+	color:rgb(241,159,77);
+	text-decoration:none;
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+img{border: dotted;
+	width: 200px;
+	margin-right: 20px;
+	float: left
+}
+#page_content{
+	width: 85%;
+	margin: auto;
+}
+#current_page{
+	border-bottom: 3px rgb(242,183,19);
+}

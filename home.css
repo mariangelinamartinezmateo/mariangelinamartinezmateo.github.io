@@ -1,0 +1,15 @@
+
+img{border: dotted white 2px;
+	width: 22%;
+	max-height: 216px
+	}
+#fix{
+
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+
+}
+#logo{
+	border: none;
+}
